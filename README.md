@@ -93,7 +93,6 @@ Despite consistent sales activity, Arihant Enterprises faced several structural 
 - 🔢 [Excel Sheet (Cleaned Data)](https://docs.google.com/spreadsheets/d/1Jg_dE-qwCxXNHKev7bLKN_eYq5r08sMV8Z_f7SqE-3Y)
 - 📊 [Google Colab Notebook](https://colab.research.google.com/drive/1260i2Ut8CMMi99eRmyZTYCtRbXzRK4lV?usp=sharing)
 - 📝 [Final Report (PDF)](./BDM_Final_Report.pdf)
-- 📋 [Proposal (PDF)](./BDM_Proposal.pdf)
 
 ---
 
@@ -115,11 +114,9 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 ## 👨‍💻 Author
 
-**Deepesh Kumar Dawar**  
-Roll Number: 22f2001290  
+**Deepesh Kumar Dawar**   
 IIT Madras BS Program (Data Science & Applications)  
-Project Mentor: [IITM Faculty or Mention 'Self-driven']  
-Contact: [Add LinkedIn or email if public]
+
 
 ---
 
@@ -127,6 +124,4 @@ Contact: [Add LinkedIn or email if public]
 
 - Arihant Enterprises, for providing authentic business data
 - IIT Madras BS Program for the opportunity
-- Tools: Python, Power BI, Excel, Google Colab
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 

@@ -9,8 +9,7 @@ This repository documents my Business Data Management (BDM) Capstone Project, co
 **Founded:** 2020  
 **Location:** Dhar, Madhya Pradesh, India  
 **Sector:** B2B, B2C, B2G  
-**Core Offerings:** Disinfectants, safety equipment, cleaning tools, medical consumables  
-**Turnover:** ~₹1.36 crore (Jan 2024 – Feb 2025)  
+**Core Offerings:** Disinfectants, safety equipment, cleaning tools, medical consumables   
 **Revenue Split:** 60% institutional/government, 40% retail  
 
 ---
